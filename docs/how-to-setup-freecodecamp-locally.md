@@ -275,7 +275,7 @@ Follow these steps:
 
 3. Next, you will have to create a fresh new branch.
 
-    Working on a separate branch for every single issue, helps you keep your local work copy clean. You should never work on the `master`. This will soil your copy of freeCodeCamp and you may have to start over with a fresh clone or fork.
+    Working on a separate branch for every single issue, helps you keep your local work copy clean. You should never work on the `master`. This will soil your copy of freeCodeCamp and you may have to start over with a fresh clone of fork.
 
     Check that you are on `master` as explained previously, and branch off from there:
 
